@@ -10,7 +10,7 @@ int main() {
     float pib1;
     int numerodepontosturisticos1;
 
-    // Carta 2
+    // Váriáveis carta 2
     char estado2[50];  
     char codigodacarta2[50];
     char nomedacidade2[50];
