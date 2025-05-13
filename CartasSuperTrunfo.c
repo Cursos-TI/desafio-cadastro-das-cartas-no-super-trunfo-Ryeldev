@@ -63,7 +63,7 @@ int main() {
     printf("Digite o número de pontos turísticos: \n");
     scanf("%d", &numerodepontosturisticos2);
 
-    // Saída Carta 1
+    // Essa é a primeira parte da saída de dados ou seja da carta 1
     printf("\nCarta 1\n");
     printf("Estado: %s\n", estado1);
     printf("Código: %s\n", codigodacarta1);
@@ -73,13 +73,13 @@ int main() {
     printf("PIB: %.2f bilhões de reais\n", pib1);
     printf("Número de pontos turísticos: %d\n", numerodepontosturisticos1);
 
-    // Saída Carta 2
+    // Saída de dados da carta dois
     printf("\nCarta 2\n");
     printf("Estado: %s\n", estado2);
     printf("Código: %s\n", codigodacarta2);
     printf("Nome da cidade: %s\n", nomedacidade2);
     printf("População: %d\n", populacao2);
-    printf("Área: %.2f km²\n", areaemkm2);
+    printf("Área: %.2f km²\n", areaemkm2); //Esse ponto depois de % indica quantas casas decimais serão exibidas
     printf("PIB: %.2f bilhões de reais\n", pib2);
     printf("Número de pontos turísticos: %d\n", numerodepontosturisticos2);
 
